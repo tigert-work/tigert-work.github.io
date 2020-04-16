@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![image](/assets/images/logo.svg)
+
 # Website Template
 
 This is a template for a website. It is hosted via [GitHub Pages](https://guides.github.com/features/pages/). 
