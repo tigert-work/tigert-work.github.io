@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 site.github.project_tagline: Minimal open source project website template
 logo: /assets/images/logo.svg
+description: Open source project website template
