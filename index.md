@@ -12,7 +12,7 @@ See the above link to read more about this.
 This template website is based on the [Cayman theme for GitHub Pages](https://github.com/pages-themes/cayman).
 Additionally, a few useful things like social media links, contact information and information on how to contribute have been added. We hope that this can serve as a useful starting point for you.
 
-If you want to change the look and feel to match your own brand identity, you can edit the [style sheet in assets/css](https://github.com/tigert-work/tigert-work.github.io/tree/master/assets/css/). Also replace the logo.svg in [assets/images](https://github.com/tigert-work/tigert-work.github.io/tree/master/assets/images/) with your own.
+If you want to change the look and feel to match your own brand identity, you can edit the [style sheet in assets/css](https://github.com/tigert-work/tigert-work.github.io/tree/master/assets/css/). Also replace the logo.svg in [assets/images](https://github.com/tigert-work/tigert-work.github.io/tree/master/assets/images/) with your own. The tagline and other things can be edited in the [configuration file](https://github.com/tigert-work/tigert-work.github.io/blob/master/_config.yml).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
